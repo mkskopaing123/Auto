@@ -15,13 +15,13 @@ APP_ID =  "7051195"
 API_HASH = "a36d0269f12722e154f89ff5f0135f04"
 
 # Generate a user session string 
-TG_USER_SESSION = "BQACwrVuVFahR0k9p9h_C5CpL8poDxAqUEJnb8u0bJe18lbch9OV7ftYSKvZckbTuSwjdIvGt28tUbwwy-PDhXJihTfM2y-XRrzz_LuZMQGFg8vLmkWC9D2hIE6tCKZXu_8ASRte5un3AZNWn1P-A_IhA44ZMRpQCKXulxScd3kXmzdZoHQDFFaFF_tMpJUaWJoVBtEBHVV0bHJZfiItR7WXsjt-nVGxF0NbZUo7l2da9w6w9nj4AdeKWJzi6A1u0MAP-VzKhfBnpOLa5Fuh7vKL4wR2VUCHqJxWkmnHsqOL-IQPdOGJ6itmopM6XDzJr-58OhU-pE1_3RY8GUQ8XEr7SEzWqwA"
+TG_USER_SESSION = "BQAgT1YANRWoj9f34Eu5PuDUrhwOtTDAJWCU-TbCh8_Dti0ZhnHtden7fosnRJ5uMUMlY6Fy0sY7TwbQCU8GHmmj5cFgjzUxt8aytpvZ0Mzl7v_U8aUPixNf0j2zYfLZzUgGYHukzuyr14cxnQJ-udc-tgELnzeSBt_7yMTr8jeAYfTg0EKvIB6G2KamWwUudxi6UmG94-y00Aw5wRB7XJ7Osd1yV-dh1JOT5Hzz2SyuynT7alB6t-9IhxGXnkxgpfOLnDoejD87ui4BhUBX8krf5L_3Am_I-PQCazo8lpPmWeFQRP_jJSTKznUwTjvFh1kENm90RMk7XtOL2Qr33eAuHse7fAAAAABCYKZaAA"
 
 # Database URL from https://cloud.mongodb.com/
 DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://bot1:bot1@cluster0.fqzak9o.mongodb.net/?retryWrites=true&w=majority")
 
 # Your database name from mongoDB
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "Cluster02")
 DATABASE_NAME2 = str(os.environ.get("DATABASE_NAME2", "Unlimited"))
 
 # ID of users that can use the bot commands
