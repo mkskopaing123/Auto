@@ -15,7 +15,8 @@ from info import PICS, PICS2
 
 from pyrogram import (
     filters,
-    Client
+    Client, 
+    enums
 )
 
 from pyrogram.types import (
